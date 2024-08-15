@@ -1,5 +1,6 @@
-# Teste de performance de API com Apache JMeter
+# Lojinha teste de performance com Apache JMeter
 
+Esse é um repisitório que contém alguns testes de API Rest de um software denominado Lojinha. Os sub tópicos abaixo descreve algumas decisões tomadas na estruturação do projeto.
 ## Descrição
 Este projeto utiliza Apache JMeter para realizar testes de performance. O plano de teste realiza login e o cadastro de um produto através de requisições HTTP.
 
